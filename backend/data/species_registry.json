@@ -1,0 +1,615 @@
+{
+  "ocimum_tenuiflorum": {
+    "scientific_name": null,
+    "source_scientific_names": [],
+    "common_name": "Tulsi",
+    "hindi_name": null,
+    "aliases": [
+      "tulsi",
+      "ocimum tenuiflorum",
+      "tulasi"
+    ],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "bystropogon_canariensis": {
+    "scientific_name": "bystropogon canariensis",
+    "source_scientific_names": [
+      "bystropogon canariensis"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "ocimum_gratissimum": {
+    "scientific_name": "ocimum gratissimum",
+    "source_scientific_names": [
+      "ocimum gratissimum"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "coleus_amboinicus": {
+    "scientific_name": "coleus amboinicus",
+    "source_scientific_names": [
+      "coleus amboinicus"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "coleus_hadiensis": {
+    "scientific_name": "coleus hadiensis",
+    "source_scientific_names": [
+      "coleus hadiensis"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "coleus_barbatus": {
+    "scientific_name": "coleus barbatus",
+    "source_scientific_names": [
+      "coleus barbatus"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "salvadora_persica": {
+    "scientific_name": "salvadora persica",
+    "source_scientific_names": [
+      "salvadora persica"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "hibiscus_fragilis": {
+    "scientific_name": "hibiscus fragilis",
+    "source_scientific_names": [
+      "hibiscus fragilis"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "aloe_dorotheae": {
+    "scientific_name": "aloe dorotheae",
+    "source_scientific_names": [
+      "aloe dorotheae"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "tagetes_tenuifolia": {
+    "scientific_name": "tagetes tenuifolia",
+    "source_scientific_names": [
+      "tagetes tenuifolia"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": true,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "tagetes_erecta": {
+    "scientific_name": "tagetes erecta",
+    "source_scientific_names": [
+      "tagetes erecta"
+    ],
+    "common_name": null,
+    "hindi_name": "गेंदा",
+    "aliases": [
+      "african marigold"
+    ],
+    "identification": {
+      "plantnet300k": true,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "tagetes_minuta": {
+    "scientific_name": "tagetes minuta",
+    "source_scientific_names": [
+      "tagetes minuta"
+    ],
+    "common_name": null,
+    "hindi_name": "जंगली गेंदा",
+    "aliases": [],
+    "identification": {
+      "plantnet300k": true,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "mutarda_nigra": {
+    "scientific_name": "mutarda nigra",
+    "source_scientific_names": [
+      "mutarda nigra"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "mutarda_arvensis": {
+    "scientific_name": "mutarda arvensis",
+    "source_scientific_names": [
+      "mutarda arvensis"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "brassica_napus": {
+    "scientific_name": "brassica napus",
+    "source_scientific_names": [
+      "brassica napus"
+    ],
+    "common_name": null,
+    "hindi_name": "कैनोला",
+    "aliases": [
+      "rape"
+    ],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "ipomoea_aquatica": {
+    "scientific_name": "ipomoea aquatica",
+    "source_scientific_names": [
+      "ipomoea aquatica"
+    ],
+    "common_name": null,
+    "hindi_name": "कलमी शाक",
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "rumex_brownii": {
+    "scientific_name": "rumex brownii",
+    "source_scientific_names": [
+      "rumex brownii"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "capsicum_annuum": {
+    "scientific_name": "capsicum annuum",
+    "source_scientific_names": [
+      "capsicum annuum"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "solanum_lycopersicum": {
+    "scientific_name": "solanum lycopersicum",
+    "source_scientific_names": [
+      "solanum lycopersicum"
+    ],
+    "common_name": null,
+    "hindi_name": "टमाटर",
+    "aliases": [
+      "garden tomato"
+    ],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "citrullus_lanatus": {
+    "scientific_name": "citrullus lanatus",
+    "source_scientific_names": [
+      "citrullus lanatus"
+    ],
+    "common_name": null,
+    "hindi_name": "साइट्रुलस लैनाटस",
+    "aliases": [
+      "watermelon"
+    ],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "glycine_max": {
+    "scientific_name": "glycine max",
+    "source_scientific_names": [
+      "glycine max"
+    ],
+    "common_name": null,
+    "hindi_name": "सोयाबीन",
+    "aliases": [
+      "soya bean"
+    ],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "plectranthus_amboinicus": {
+    "scientific_name": "plectranthus amboinicus",
+    "source_scientific_names": [
+      "plectranthus amboinicus"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "plectranthus_barbatus": {
+    "scientific_name": "plectranthus barbatus",
+    "source_scientific_names": [
+      "plectranthus barbatus"
+    ],
+    "common_name": null,
+    "hindi_name": "पत्थरचूर",
+    "aliases": [
+      "forskohlii"
+    ],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "plectranthus_parviflorus": {
+    "scientific_name": "plectranthus parviflorus",
+    "source_scientific_names": [
+      "plectranthus parviflorus"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "medicago_sativa": {
+    "scientific_name": "medicago sativa",
+    "source_scientific_names": [
+      "medicago sativa"
+    ],
+    "common_name": null,
+    "hindi_name": "अल्फाल्फा",
+    "aliases": [
+      "alfalfa"
+    ],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "hydrangea_petiolaris": {
+    "scientific_name": "hydrangea petiolaris",
+    "source_scientific_names": [
+      "hydrangea petiolaris"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "prunus_serrulata": {
+    "scientific_name": "prunus serrulata",
+    "source_scientific_names": [
+      "prunus serrulata"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "malus_domestica": {
+    "scientific_name": "malus domestica",
+    "source_scientific_names": [
+      "malus domestica"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "fraxinus_angustifolia": {
+    "scientific_name": "fraxinus angustifolia",
+    "source_scientific_names": [
+      "fraxinus angustifolia"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "ocimum_kilimandscharicum": {
+    "scientific_name": "ocimum kilimandscharicum",
+    "source_scientific_names": [
+      "ocimum kilimandscharicum"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "glycyrrhiza_glabra": {
+    "scientific_name": "glycyrrhiza glabra",
+    "source_scientific_names": [
+      "glycyrrhiza glabra"
+    ],
+    "common_name": null,
+    "hindi_name": "यष्टिमधु",
+    "aliases": [
+      "liquorice"
+    ],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "robinia_hispida": {
+    "scientific_name": "robinia hispida",
+    "source_scientific_names": [
+      "robinia hispida"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "hibiscus_rosa_sinensis": {
+    "scientific_name": "hibiscus rosa-sinensis",
+    "source_scientific_names": [
+      "hibiscus rosa-sinensis"
+    ],
+    "common_name": null,
+    "hindi_name": "ला रोजिता",
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "hibiscus_schizopetalus": {
+    "scientific_name": "hibiscus schizopetalus",
+    "source_scientific_names": [
+      "hibiscus schizopetalus"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  },
+  "duranta_erecta": {
+    "scientific_name": "duranta erecta",
+    "source_scientific_names": [
+      "duranta erecta"
+    ],
+    "common_name": null,
+    "hindi_name": null,
+    "aliases": [],
+    "identification": {
+      "plantnet300k": false,
+      "plantnet_api": "unknown",
+      "project_supported": true
+    },
+    "disease": {
+      "status": "unknown"
+    }
+  }
+}

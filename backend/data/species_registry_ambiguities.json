@@ -1,0 +1,618 @@
+[
+  {
+    "type": "unresolved_alias",
+    "alias": "butterfly pea",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "toothbrush tree",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "neem",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "mango",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "rose",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "sunflower",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "money plant",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "monstera",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "swiss cheese plant",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "golden pothos",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "snake plant",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "peace lily",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "aloe vera",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "rubber plant",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "hibiscus",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "peepal",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "banyan",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "mogra",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "jasmine",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "marigold",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "curry leaf",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "mint",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "periwinkle",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "oleander",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "bougainvillea",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "jade plant",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "spider plant",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "zz plant",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "areca palm",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "hibiscus × rosa-sinensis",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "chinese hibiscus",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "hibiscus × archeri",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "muster john henry",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "swamp morning glory",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "acer × freemanii",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "unresolved_alias",
+    "alias": "hawaiian hibiscus",
+    "reason": "no reliable scientific match or explicit group"
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "lactuca_virosa",
+    "model_class_indices": [
+      0,
+      898
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "pelargonium_peltatum",
+    "model_class_indices": [
+      6,
+      484
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "pelargonium_zonale",
+    "model_class_indices": [
+      8,
+      919
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "tradescantia_zebrina",
+    "model_class_indices": [
+      15,
+      561,
+      875
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "asystasia_gangetica",
+    "model_class_indices": [
+      21,
+      643
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "nymphaea_nouchali",
+    "model_class_indices": [
+      22,
+      707
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "nephrolepis_cordifolia",
+    "model_class_indices": [
+      26,
+      335
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "alliaria_petiolata",
+    "model_class_indices": [
+      61,
+      402
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "lavandula_canariensis",
+    "model_class_indices": [
+      85,
+      1020
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "pancratium_maritimum",
+    "model_class_indices": [
+      152,
+      868
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "cirsium_palustre",
+    "model_class_indices": [
+      171,
+      989
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "freesia_refracta",
+    "model_class_indices": [
+      189,
+      550
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "tradescantia_pallida",
+    "model_class_indices": [
+      191,
+      686
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "schefflera_actinophylla",
+    "model_class_indices": [
+      193,
+      590,
+      680
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "melilotus_officinalis",
+    "model_class_indices": [
+      229,
+      439
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "duchesnea_indica",
+    "model_class_indices": [
+      239,
+      744
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "guizotia_abyssinica",
+    "model_class_indices": [
+      241,
+      406
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "calendula_arvensis",
+    "model_class_indices": [
+      244,
+      351,
+      899
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "gynura_aurantiaca",
+    "model_class_indices": [
+      283,
+      697
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "schkuhria_pinnata",
+    "model_class_indices": [
+      288,
+      879
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "acalypha_hispida",
+    "model_class_indices": [
+      291,
+      681
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "mussaenda_philippica",
+    "model_class_indices": [
+      301,
+      853
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "vanilla_planifolia",
+    "model_class_indices": [
+      325,
+      636,
+      842
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "acacia_saligna",
+    "model_class_indices": [
+      344,
+      1027
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "dryopteris_carthusiana",
+    "model_class_indices": [
+      382,
+      740
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "dryopteris_cristata",
+    "model_class_indices": [
+      383,
+      741
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "hebe_andersonii",
+    "model_class_indices": [
+      407,
+      1056
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "kniphofia_uvaria",
+    "model_class_indices": [
+      423,
+      863
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "lactuca_alpina",
+    "model_class_indices": [
+      424,
+      991
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "lamium_maculatum",
+    "model_class_indices": [
+      428,
+      755
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "limnanthes_douglasii",
+    "model_class_indices": [
+      433,
+      836
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "sasa_palmata",
+    "model_class_indices": [
+      497,
+      849
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "pyracantha_coccinea",
+    "model_class_indices": [
+      499,
+      778
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "sedum_kamtschaticum",
+    "model_class_indices": [
+      510,
+      817
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "metasequoia_glyptostroboides",
+    "model_class_indices": [
+      514,
+      914
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "cymbalaria_muralis",
+    "model_class_indices": [
+      537,
+      1072
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "fragaria_virginiana",
+    "model_class_indices": [
+      553,
+      851
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "sedum_palmeri",
+    "model_class_indices": [
+      559,
+      869
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "dryopteris_erythrosora",
+    "model_class_indices": [
+      562,
+      823
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "lupinus_nootkatensis",
+    "model_class_indices": [
+      574,
+      1029
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "barbarea_vulgaris",
+    "model_class_indices": [
+      598,
+      790
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "peperomia_obtusifolia",
+    "model_class_indices": [
+      626,
+      701
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "alocasia_cucullata",
+    "model_class_indices": [
+      657,
+      952
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "alocasia_macrorrhizos",
+    "model_class_indices": [
+      659,
+      871
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "acacia_auriculiformis",
+    "model_class_indices": [
+      666,
+      1021
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "acacia_podalyriifolia",
+    "model_class_indices": [
+      679,
+      1026
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "peperomia_argyreia",
+    "model_class_indices": [
+      699,
+      845
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "zamia_furfuracea",
+    "model_class_indices": [
+      704,
+      864
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "fittonia_albivenis",
+    "model_class_indices": [
+      717,
+      811
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "selenicereus_anthonyanus",
+    "model_class_indices": [
+      726,
+      981
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "liriope_muscari",
+    "model_class_indices": [
+      835,
+      904
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "mazus_pumilus",
+    "model_class_indices": [
+      883,
+      912
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "melampodium_divaricatum",
+    "model_class_indices": [
+      884,
+      994
+    ]
+  },
+  {
+    "type": "plantnet_canonical_collision",
+    "canonical_id": "tagetes_lemmonii",
+    "model_class_indices": [
+      934,
+      997
+    ]
+  }
+]

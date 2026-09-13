@@ -1,0 +1,243 @@
+# =========================================================
+# PLANTSATHI AI - GITIGNORE
+# =========================================================
+
+
+# =========================================================
+# ENVIRONMENT / SECRETS
+# =========================================================
+
+.env
+.env.*
+!.env.example
+
+**/.env
+**/.env.*
+!**/.env.example
+
+
+# =========================================================
+# NODE.JS
+# =========================================================
+
+node_modules/
+**/node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+.npm/
+.pnpm-store/
+
+
+# =========================================================
+# VITE / FRONTEND BUILD
+# =========================================================
+
+dist/
+**/dist/
+
+build/
+**/build/
+
+.vite/
+.cache/
+.parcel-cache/
+
+coverage/
+
+
+# =========================================================
+# NEXT / OTHER BUILD OUTPUTS
+# =========================================================
+
+.next/
+out/
+
+
+# =========================================================
+# TYPESCRIPT
+# =========================================================
+
+*.tsbuildinfo
+
+
+# =========================================================
+# PYTHON
+# =========================================================
+
+__pycache__/
+**/__pycache__/
+
+*.py[cod]
+*$py.class
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.venv/
+venv/
+ENV/
+env/
+
+*.egg-info/
+.eggs/
+
+
+# =========================================================
+# PYTHON / AI TEMPORARY FILES
+# =========================================================
+
+*.log
+logs/
+**/logs/
+
+tmp/
+temp/
+
+uploads/
+uploaded_images/
+results/
+output/
+outputs/
+
+
+# =========================================================
+# MACHINE LEARNING MODELS
+# =========================================================
+
+# PyTorch
+*.pth
+*.pt
+*.pt2
+
+# TensorFlow / Keras
+*.h5
+*.keras
+
+# Hugging Face / Transformers
+*.safetensors
+*.bin
+
+# ONNX
+*.onnx
+
+# Other checkpoints
+*.ckpt
+*.weights
+
+# Model directories
+models/
+checkpoints/
+weights/
+
+
+# =========================================================
+# DATASETS
+# =========================================================
+
+datasets/
+**/datasets/
+
+dataset/
+**/dataset/
+
+data.zip
+
+PlantVillage/
+plantvillage/
+
+training-data/
+training_data/
+
+disease-training/
+
+
+# =========================================================
+# HUGGING FACE CACHE
+# =========================================================
+
+.cache/
+**/.cache/
+
+huggingface/
+**/huggingface/
+
+
+# =========================================================
+# LOCAL DATABASES
+# =========================================================
+
+*.db
+*.sqlite
+*.sqlite3
+
+
+# =========================================================
+# IDE
+# =========================================================
+
+.vscode/
+.idea/
+
+*.swp
+*.swo
+
+
+# =========================================================
+# OPERATING SYSTEM
+# =========================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# =========================================================
+# TEMPORARY / BACKUP FILES
+# =========================================================
+
+*.tmp
+*.temp
+*.bak
+*.backup
+
+
+# =========================================================
+# LOCAL CONFIG FILES
+# =========================================================
+
+*.local
+*.local.json
+
+config.local.*
+secrets/
+private/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
