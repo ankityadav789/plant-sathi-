@@ -36,7 +36,32 @@ if (!process.env.GROQ_API_KEY || process.env.GROQ_API_KEY.trim() === '') {
 }
 
 // ── Middleware ────────────────────────────────────────────────────────────────
-app.use(cors());
+const allowedOrigins = [
+  'https://plant-sathi.web-app-dashboard.workers.dev',
+  'https://plant-sathi.plant-sathi.workers.dev',
+  'http://localhost:5173',
+  'http://localhost:3000'
+];
+
+app.use(cors({
+  origin: function (origin, callback) {
+    // Allow requests without an Origin header, such as server-to-server requests.
+    if (!origin) {
+      return callback(null, true);
+    }
+
+    if (allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    }
+
+    return callback(new Error(`CORS blocked origin: ${origin}`));
+  },
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  credentials: false
+}));
+
+app.options(/.*/, cors());
 app.use(express.json({ limit: '20mb' }));
 
 // ── Routes ────────────────────────────────────────────────────────────────────
