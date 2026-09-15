@@ -79,12 +79,19 @@ app.use((err, req, res, next) => {
   });
 });
 
-// ── Start ─────────────────────────────────────────────────────────────────────
-app.listen(PORT, () => {
-  console.log(`🚀 Server is RUNNING on http://localhost:${PORT}`);
-  if (missingKeys.length > 0) {
-    console.log(`⚠️  ${missingKeys.length} key(s) missing — plant analysis requests will fail until they are configured.\n`);
-  } else {
-    console.log('✅ All API keys configured — ready to analyze plants!\n');
-  }
-});
+// ── Start server locally ──────────────────────────────────────────────────────
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`🚀 Server is RUNNING on http://localhost:${PORT}`);
+
+    if (missingKeys.length > 0) {
+      console.log(
+        `⚠️  ${missingKeys.length} key(s) missing — plant analysis requests will fail until they are configured.\n`
+      );
+    } else {
+      console.log('✅ All API keys configured — ready to analyze plants!\n');
+    }
+  });
+}
+
+module.exports = app;
